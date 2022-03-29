@@ -1,0 +1,6 @@
+ACKNOWLEDGEMENTS
+
+I would like to acknowledge these people who have supported and assisted me throughout the duration of this assignment. Most especially my module tutors, Dr Maryam Hafeez and Dr. Violeta Holmes who have provided me with close supervision during the execution of this assignment. I specifically want to thank Dr. Maryam for her encouragement when I was struggling with understanding C programming language.
+I also want to thank my personal academic tutor Prof. Andrew Longstaff, for his guidance while I was writing this report. He always knew where to point me to when I needed help.
+Finally, I will not fail to acknowledge the Library staff Dr. Alison Sharman for her guidance on the use of the library resources.
+
